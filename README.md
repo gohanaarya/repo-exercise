@@ -1,1 +1,1 @@
-# repo-exercise
+# class-repo-exercise
