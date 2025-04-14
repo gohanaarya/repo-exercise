@@ -1,1 +1,1 @@
-# class-repo-exercise
+# class-lab-repo
